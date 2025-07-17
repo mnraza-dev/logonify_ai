@@ -28,22 +28,6 @@ Whether you're launching a startup, building a personal brand, or revamping your
 
 
 
-![Brand theme](/public/image.png)
-
-| Color Role | Hex Code   | Preview |
-|------------|------------|---------|
-| **Primary**   | `#590d82` | ![#590d82](https://via.placeholder.com/15/590d82/000000?text=+) |
-| **Secondary** | `#7912b0` | ![#7912b0](https://via.placeholder.com/15/7912b0/000000?text=+) |
-| **Accent**    | `#9816df` | ![#9816df](https://via.placeholder.com/15/9816df/000000?text=+) |
-| **Dark**      | `#390854` | ![#390854](https://via.placeholder.com/15/390854/000000?text=+) |
-| **Light**     | `#e6e6e6` | ![#e6e6e6](https://via.placeholder.com/15/e6e6e6/000000?text=+) |
-| **Text**      | `#ffffff` | ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) |
-
-> *“Smart Logos. Instantly Branded.”*
-
-
-
-
 
 
 First, run the development server:
