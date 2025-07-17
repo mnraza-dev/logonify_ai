@@ -7,10 +7,13 @@ import { useParams } from "next/navigation";
 import React from "react";
 
 const CreateLogo = () => {
+  const onHandleInputChange = (e) => {
+    setTitle(e);
+  };
 
   return (
     <div className="">
-      <LogoTitle />
+      <LogoTitle onHandleInputChange={onHandleInputChange} />
 
       <div className="mt-8 flex justify-between items-center">
         <Button className={" cursor-pointer"} variant={"outline"}>
