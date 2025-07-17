@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Logonify AI App",
-  description: "build logo in balzing fast speed.",
+  description: "AI-Powered Logos That Speak Your Brand.",
 };
 
 export default function RootLayout({ children }) {

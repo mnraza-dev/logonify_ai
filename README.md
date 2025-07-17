@@ -15,6 +15,16 @@ Whether you're launching a startup, building a personal brand, or revamping your
 
 - 🌐 Perfect for entrepreneurs, agencies, freelancers, and SaaS builders
 
+## 🎨 Brand
+
+![Brand theme](image.png)
+> *“Smart Logos. Instantly Branded.”*
+- **Primary:** `#590d82`
+- **Secondary:** `#7912b0`
+- **Accent:** `#9816df`
+- **Dark:** `#390854`
+- **Light:** `#e6e6e6`
+- **Text:** `#ffffff`
 
 
 
