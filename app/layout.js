@@ -1,4 +1,4 @@
-import { ThemeProvider } from "@/components/theme-provider";
+import { Provider } from "@/app/Provider";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/custom/Navbar";
@@ -16,12 +16,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.className} antialiased`} suppressHydrationWarning>
       <body>
-        <ThemeProvider>
+        <Provider>
           <Navbar/>
          <main className="mx-8 px-2  py-4 max-w-8xl">
          {children}
          </main>
-        </ThemeProvider>
+        </Provider>
       </body>
     </html>
   );

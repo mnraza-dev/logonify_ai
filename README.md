@@ -4,7 +4,16 @@ Logonify AI is an intelligent logo generator that helps you create professional,
 
 Whether you're launching a startup, building a personal brand, or revamping your business identity, Logonify AI simplifies the creative process with smart suggestions, style customization, and instant previews — all in a seamless user-friendly interface.
 
+## ✅ Key Features:
+- 🔍 AI-powered logo suggestions based on your brand name, industry, and style
 
+- 🎨 Fully customizable icons, fonts, and color palettes
+
+- 🧠 Intelligent branding kits including business cards, favicons, and social media assets
+
+- ⚡ High-resolution exports in SVG, PNG, and PDF formats
+
+- 🌐 Perfect for entrepreneurs, agencies, freelancers, and SaaS builders
 
 
 
