@@ -17,7 +17,7 @@ Whether you're launching a startup, building a personal brand, or revamping your
 
 ## 🎨 Brand
 
-![Brand theme](image.png)
+![Brand theme](/public/image.png)
 > *“Smart Logos. Instantly Branded.”*
 - **Primary:** `#590d82`
 - **Secondary:** `#7912b0`
